@@ -18,7 +18,7 @@
 ### Plugin description
 
 * Detect bacteria on the average intensity Z-projection of channel 3 with Omnipose
-* Detect foci on the max intensity Z-projection of channels 1 and 2 with DoG + Otsu threshold
+* Detect foci on the max intensity Z-projection of channels 1 and 2 with DoG + threshold
 * In each bacterium, return distances between channel 1 and channel 2 foci and colocalization events
 
 
